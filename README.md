@@ -1,12 +1,7 @@
 # 👋 Hi, I'm Aranck  
 
-Clean architecture, efficient code, and real-world-ready systems are what drive my approach to software engineering.  
-I design **scalable backend solutions with Spring Boot**, develop **RESTful APIs**, and integrate front-end interfaces using **React**.  
-
-While this is my core stack, I also work with **MERN**, **FastAPI**, **AI agent systems**, and **SQL/Supabase** for data management.  
-
+Clean architecture, efficient code, and real-world-ready systems are what drive my approach to software engineering. I design **scalable backend solutions with Spring Boot**, develop **RESTful APIs**, and integrate front-end interfaces using **React**. While this is my core stack, I also work with **MERN**, **FastAPI**, **AI agent systems**, and **SQL/Supabase** for data management.  
 ---
-
 ### 🛠️ Tech Stack  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) |
@@ -18,29 +13,18 @@ While this is my core stack, I also work with **MERN**, **FastAPI**, **AI agent 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
 ---
-
 ### 💡 My Philosophy  
 I build systems that are **easy to maintain**, **adaptable as needs evolve**, and **robust enough for real-world demands**.  
 Technology should create solutions that make a **real difference** — not just check boxes.  
-
 ---
-
 ### 🚀 What I'm Exploring  
 - Backend design patterns & clean architecture  
 - Workflow pipelines & system scalability  
 - AWS-powered applications  
-
----
-
-### 🏆 Competitive Edge  
-- Solving coding problems & **LeetCode contests**  
-- **Hackathons**  
-- Championing **Java** as my weapon of choice  
-
 ---
 
 📫 **Let’s connect!**  
 - [LinkedIn](https://www.linkedin.com/in/aranck)  
-- 📧 **arancksj@gmail.com**  
+- 📧 **arancksj@gmail.com**
+- 
