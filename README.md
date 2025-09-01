@@ -1,4 +1,43 @@
-# 🛠️ Tech Stack
+# 👋 Hi, I'm Aranck  
+
+Clean architecture, efficient code, and real-world-ready systems are what drive my approach to software engineering.  
+I design **scalable backend solutions with Spring Boot** and its broader ecosystem, develop **RESTful APIs**, and integrate front-end interfaces using **React**.  
+
+While this is my core stack, I also have competence with:  
+- **MERN**  
+- **FastAPI**  
+- **AI agent systems**  
+- **SQL & Supabase** for data management  
+
+---
+
+### 💡 My Philosophy  
+Collaborating with others to build systems that stand the test of time is fundamental to my work.  
+The goal is to make them **easy to maintain**, **adaptable as needs evolve**, and **robust enough for real-world demands**.  
+
+I find meaning in using technology thoughtfully to create solutions that make a **real difference** — not just check boxes.  
+
+---
+
+### 🚀 What I'm Exploring  
+- Backend design patterns & clean architecture  
+- Workflow pipelines & system scalability  
+- AWS-enabled applications  
+
+---
+
+### 🏆 Competitive Edge  
+Fueled by competition, I regularly sharpen my skills through:  
+- Coding problems & **LeetCode contests**  
+- **Hackathons**  
+- Championing **Java** as my weapon of choice  
+
+---
+
+📫 **Let’s connect!**  
+- [LinkedIn](https://www.linkedin.com/in/aranck)  
+- 📧 **arancksj@gmail.com**  
+
 
 ### Backend  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
