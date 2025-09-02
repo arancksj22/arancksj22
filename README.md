@@ -2,9 +2,12 @@
 
 💻 Passionate about **building scalable backend systems** and **clean software architectures** that thrive in the real world.  
 I specialize in **Spring Boot**, **Java**, and **REST APIs**, and I love connecting the backend to seamless **React** frontends.  
+
 I’ve also worked with **MERN**, **FastAPI**, and **AI-driven agent systems**, managing data with **SQL** and **Supabase**.  
 What excites me is creating solutions that are not just functional, but **robust, maintainable, and impactful**.  
+
 ---
+
 ## 🛠️ Tech Stack  
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | 
@@ -18,17 +21,14 @@ What excites me is creating solutions that are not just functional, but **robust
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
-## 💡 Philosophy  
-I believe software should be:  
-✔️ **Clean & Maintainable** – Easy to evolve as needs grow  
-✔️ **Scalable** – Ready for real-world load & complexity  
-✔️ **Impactful** – Technology should solve problems, not just tick boxes  
----
+
 ## 🚀 Currently Exploring  
-- Backend design patterns & **AWS**  
+- Backend design patterns & **domain-driven design (DDD)**  
 - Workflow pipelines & system scalability  
 - AI + backend integration experiments  
+
 ---
+
 ## 📫 Let’s Connect!  
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aranck)  
