@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Aranck  
+# 👋 Hey, I'm Aranck!  
 
 💻 Passionate about **building scalable backend systems** and **clean software architectures** that thrive in the real world.  
-I specialize in **Spring Boot**, **Java**, and **REST APIs**, and I love connecting the backend to seamless **React** and **Angular** frontends
+I specialize in **Spring Boot**, **Java**, and **REST APIs**, integrating the backend with fluid **React** and **Angular** frontends
 as well as deployment using **AWS RDS** and **AWS S3**.  
 
 I’ve also worked with **MERN**, **FastAPI**, **AI-driven multi-agent systems**, and **Microservice** architectures, managing data with 
@@ -31,7 +31,8 @@ What excites me is creating solutions that are not just functional, but **robust
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
 
 **Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | 
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) |
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) |
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) | 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | 
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) | 
