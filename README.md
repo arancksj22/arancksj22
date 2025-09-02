@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Aranck  
 
 💻 Passionate about **building scalable backend systems** and **clean software architectures** that thrive in the real world.  
-I specialize in **Spring Boot**, **Java**, and **REST APIs**, and I love connecting the backend to seamless **React** and **Angular** frontends.  
+I specialize in **Spring Boot**, **Java**, and **REST APIs**, and I love connecting the backend to seamless **React** and **Angular** frontends
+as well as deployment using **AWS RDS** and **AWS S3**.  
 
-I’ve also worked with **MERN**, **FastAPI**, and **AI-driven agent systems**, managing data with **SQL** and **Supabase**.  
-What excites me is creating solutions that are not just functional, but **robust, maintainable, and impactful**.  
+I’ve also worked with **MERN**, **FastAPI**, **AI-driven multi-agent systems**, and **Microservice** architectures, managing data with 
+**SQL** and **Supabase**.
+What excites me is creating solutions that are not just functional, but **robust, maintainable, and most importantly impactful**.  
 
 ---
 ## 🛠️ Tech Stack  
