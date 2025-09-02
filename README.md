@@ -58,8 +58,8 @@ What excites me is creating solutions that are not just functional, but **robust
 
 ---
 ## 🚀 Currently Exploring  
-- Backend design patterns & **AWS**  
-- Workflow pipelines & system scalability  
-- AI + backend integration experiments  
+- **Multi-agent AI systems** with **Spring Boot & Python Microservices**
+- **Cloud-native** deployment with **AWS** + **Docker**  
+- Secure **Authentication & Authorization** flows  
 ---
 ✨ *Fueled by curiosity, competition (LeetCode, hackathons), and the drive to build systems that last.*  
