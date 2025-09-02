@@ -9,6 +9,11 @@ I’ve also worked with **MERN**, **FastAPI**, **AI-driven multi-agent systems**
 What excites me is creating solutions that are not just functional, but **robust, maintainable, and most importantly impactful**.  
 
 ---
+## 📫 Let’s Connect!  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aranck)  
+- 🧩 [LeetCode](https://leetcode.com/u/arancksj_lc2005/)  
+- 📧 **arancksj@gmail.com**  
+---
 ## 🛠️ Tech Stack  
 
 **Languages:**  
@@ -17,7 +22,7 @@ What excites me is creating solutions that are not just functional, but **robust
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) | 
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white) | 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) |
 
 **Backend:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) | 
@@ -30,7 +35,7 @@ What excites me is creating solutions that are not just functional, but **robust
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | 
 ![OAuth](https://img.shields.io/badge/OAuth-3D8DB0?style=for-the-badge&logo=auth0&logoColor=white) | 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |  
 
 **Cloud & DevOps:**  
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) |
@@ -42,20 +47,15 @@ What excites me is creating solutions that are not just functional, but **robust
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) | 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) | 
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) | 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) |
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) | 
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) | 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
 
----
-## 📫 Let’s Connect!  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aranck)  
-- 🧩 [LeetCode](https://leetcode.com/u/arancksj_lc2005/)  
-- 📧 **arancksj@gmail.com**  
 ---
 ## 🚀 Currently Exploring  
 - Backend design patterns & **AWS**  
