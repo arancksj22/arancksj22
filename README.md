@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Aranck  
 
 💻 Passionate about **building scalable backend systems** and **clean software architectures** that thrive in the real world.  
-I specialize in **Spring Boot**, **Java**, and **REST APIs**, and I love connecting the backend to seamless **React** frontends.  
+I specialize in **Spring Boot**, **Java**, and **REST APIs**, and I love connecting the backend to seamless **React** and **Angular** frontends.  
 
 I’ve also worked with **MERN**, **FastAPI**, and **AI-driven agent systems**, managing data with **SQL** and **Supabase**.  
 What excites me is creating solutions that are not just functional, but **robust, maintainable, and impactful**.  
 
 ---
-
 ## 🛠️ Tech Stack  
 
 **Languages:**  
@@ -48,16 +47,14 @@ What excites me is creating solutions that are not just functional, but **robust
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
 ---
-## 🚀 Currently Exploring  
-- Backend design patterns & **domain-driven design (DDD)**  
-- Workflow pipelines & system scalability  
-- AI + backend integration experiments  
-
----
 ## 📫 Let’s Connect!  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aranck)  
 - 🧩 [LeetCode](https://leetcode.com/u/arancksj_lc2005/)  
 - 📧 **arancksj@gmail.com**  
 ---
-
+## 🚀 Currently Exploring  
+- Backend design patterns & **domain-driven design (DDD)**  
+- Workflow pipelines & system scalability  
+- AI + backend integration experiments  
+---
 ✨ *Fueled by curiosity, competition (LeetCode, hackathons), and the drive to build systems that last.*  
