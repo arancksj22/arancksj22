@@ -10,7 +10,7 @@ What excites me is creating solutions that are not just functional, but **robust
 
 ---
 ## 📫 Let’s Connect!  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aranck)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aranckjomraj)  
 - 🧩 [LeetCode](https://leetcode.com/u/arancksj_lc2005/)  
 - 📧 **arancksj@gmail.com**  
 ---
