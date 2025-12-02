@@ -4,8 +4,8 @@
 I specialize in **Spring Boot**, **Java**, and **REST APIs**, integrating the backend with fluid **React** and **Angular** frontends
 as well as deployment using **AWS RDS** and **AWS S3**.  
 
-I’ve also worked with **MERN**, **FastAPI**, **AI-driven multi-agent systems**, and **Microservice** architectures, managing data with 
-**SQL** and **Supabase**.
+I’ve also worked with **Docker**, **FastAPI**, **AI-driven multi-agent systems**, and **Microservice** architectures, managing data with 
+**Supabase** and **AWS**.
 What excites me is creating solutions that are not just functional, but **robust, maintainable, and most importantly impactful**.  
 
 ---
